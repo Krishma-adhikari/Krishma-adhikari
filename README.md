@@ -4,7 +4,7 @@
 
 ### Aspiring AI/ML Engineer & Data Scientist from Nepal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Learner;NLP+Explorer;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;AI+%26+Data+Science+Learner;Building+Practical+ML+Projects;NLP+%26+RAG+Explorer;Python+Developer" alt="Typing SVG" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishma-adhikari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -25,8 +25,8 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 
 - BSc CSIT Student from Nepal
 - Passionate about AI, Machine Learning & Data Science
-- Currently learning Deep Learning and FastAPI
 - Building practical ML and NLP projects
+- Currently exploring modern AI technologies
 - Always learning and improving
 
 ---
@@ -55,8 +55,6 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 </p>
 
 ### Machine Learning & Data Science
-
-**Libraries & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -89,8 +87,11 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 
 ## Contribution Graph
 
+<p align="center">
+
 [![Krishma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishma-adhikari&theme=tokyo-night&hide_border=true)](https://github.com/Krishma-adhikari)
 
+</p>
 
 
 ---
@@ -105,20 +106,9 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 
 ---
 
-## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishmaadhikari.com.np)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@krishmaadhikari.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishma-adhikari-47784233a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishma-adhikari)
-
-
-
----
 <div align="center">
 
-### *"Transforming data into meaningful insights, one project at a time."*
-
-Thanks for visiting my profile!
+If you enjoy my work, consider giving a ⭐ to the repositories you find useful.
 
 </div>
