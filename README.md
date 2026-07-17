@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Krishma Adhikari
+# Hi, I'm Krishma Adhikari
 
 ### Aspiring AI/ML Engineer & Data Scientist from Nepal
 
@@ -20,41 +20,41 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 </div>
 
 ---
-## 👨‍💻 About Me
+## About Me
 
 
-- 🎓 BSc CSIT Student from Nepal
-- 🤖 Passionate about AI, Machine Learning & Data Science
-- 🌱 Currently learning Deep Learning and FastAPI
-- 💡 Building practical ML and NLP projects
-- 📈 Always learning and improving
-
----
-
-### 🚀 Current Focus
-
-- 📚 Strengthening Machine Learning fundamentals
-- 🧠 Building end-to-end AI/ML projects
-- 🌐 Developing responsive web applications
-- 🤝 Contributing to open-source and continuous learning
+- BSc CSIT Student from Nepal
+- Passionate about AI, Machine Learning & Data Science
+- Currently learning Deep Learning and FastAPI
+- Building practical ML and NLP projects
+- Always learning and improving
 
 ---
 
+## Current Focus
+
+- Strengthening Machine Learning fundamentals
+- Building end-to-end AI/ML projects
+- Developing responsive web applications
+- Contributing to open-source and continuous learning
+
+---
 
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## Tech Stack
+
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 
 **Libraries & Frameworks**
 
@@ -68,17 +68,17 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
   <img src="https://img.shields.io/badge/NLTK-85C1E9?style=flat-square"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🧰 Development Tools
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### 📓 Development Environment
+### Development Environment
 <p>
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -87,7 +87,7 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 ---
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Krishma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishma-adhikari&theme=tokyo-night&hide_border=true)](https://github.com/Krishma-adhikari)
 
@@ -95,17 +95,17 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- 👁️ Computer Vision
-- 📚 Data Structures & Algorithms
-- 💻 Building end-to-end Machine Learning projects
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- Computer Vision
+- Data Structures & Algorithms
+- Building end-to-end Machine Learning projects
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krishmaadhikari.com.np)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@krishmaadhikari.com.np)
@@ -117,8 +117,8 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 ---
 <div align="center">
 
-### 💡 *"Transforming data into meaningful insights, one project at a time."*
+### *"Transforming data into meaningful insights, one project at a time."*
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
