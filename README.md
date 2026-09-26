@@ -84,13 +84,6 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 
 ---
 
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krishma-adhikari/Krishma-adhikari/output/activity-graph.svg" alt="Krishma's github activity graph" />
-</p>
-
 ## GitHub Streak
 
 <p align="center">
