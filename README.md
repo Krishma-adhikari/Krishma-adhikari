@@ -88,9 +88,7 @@ Building practical AI, Machine Learning, NLP, and Data Science projects while co
 ## Contribution Graph
 
 <p align="center">
-
-[![Krishma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishma-adhikari&theme=tokyo-night&hide_border=true)](https://github.com/Krishma-adhikari)
-
+  <img src="https://raw.githubusercontent.com/Krishma-adhikari/Krishma-adhikari/output/activity-graph.svg" alt="Krishma's github activity graph" />
 </p>
 
 ## GitHub Streak
